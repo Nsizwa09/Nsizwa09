@@ -23,7 +23,7 @@ I am a detail-oriented **IT Graduate** with a strong foundation in building func
 
 ## 📂 Projects
 
-### **Gugu’s Salon & Spa**
+### **Gugu’s Salon**
 A high-end, luxury-themed website template for a women's hair salon. Features a sophisticated UI, service menus, and a mobile-responsive contact interface.
 
 ### **Barbershop Business Template**
@@ -37,9 +37,9 @@ A showcase of technical troubleshooting skills, infrastructure management, and h
 ## 📬 Contact Me
 I'd love to hear from you! Whether it's a project collaboration or a professional inquiry, feel free to reach out through any of the platforms below:
 
-* **Email:** [Your Email Here]
-* **LinkedIn:** [Your Profile Link]
-* **GitHub:** [Your GitHub Link]
+* **Email:** [zondolulama49@gmail.com]
+* **LinkedIn:** [https://www.linkedin.com/in/lulama-zondo/]
+* **GitHub:** [https://github.com/Nsizwa09]
 
 ---
 
